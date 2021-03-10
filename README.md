@@ -3,10 +3,14 @@
 
 Current Goals:
 - Learning <b>Python</b> to it's core (decorators and magic methods)
-- Extending my knowledge on <b>C++</b>
+- Extending my knowledge on <b>C++</b> and <b>Java</b>
 - Finishing <b>Ditto</b> with a cup of coffee
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
+
+Accounts:
+- TryHackMe: https://tryhackme.com/p/notselwyn
+- HyperSkill: https://hyperskill.org/profile/65264613
 
 <!--
 Here are some ideas to get you started:
