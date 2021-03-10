@@ -1,4 +1,5 @@
-### Hi there 👋
+# I'm Lau and I'm a..
+### Python Dev | Data Science Engineer | Wanna-be eth-hacker
 
 <!--
 **Notselwyn/Notselwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
