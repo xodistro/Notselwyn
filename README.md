@@ -5,8 +5,8 @@ Current Goals:
 - Learning <b>Python</b> to it's core (decorators and magic methods)
 - Extending my knowledge on <b>C++</b>
 - Finishing <b>Ditto</b> with a cup of coffee
-- Get started with reverse engineering
-- Get even better at OSINT
+- Get started with <b>reverse engineering</b>
+- Get even better at <b>OSINT</b>
 
 <!--
 Here are some ideas to get you started:
