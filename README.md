@@ -7,6 +7,7 @@ Current Goals:
 - Finishing <b>Ditto</b> with a cup of coffee
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
+- Being a Python vegan
 
 Where you can find me:
 - TryHackMe: https://tryhackme.com/p/notselwyn
