@@ -13,6 +13,9 @@ Where you can find me:
 - HyperSkill: https://hyperskill.org/profile/65264613
 - StackOverflow: https://stackoverflow.com/users/13511076/lau?tab=profile
 
+Used languages (on GitHub):
+<img src=https://raw.githubusercontent.com/Notselwyn/GitHubStats/f7246f3385f87d7c3517dfb640dec2a354cdda3c/generated/languages.svg?token=AQLQDNXSWGGDAAT5HGA5HUDAJD2SQ>
+
 <!--
 Here are some ideas to get you started:
 
