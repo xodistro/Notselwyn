@@ -15,8 +15,8 @@ Where you can find me:
 
 Boring statistics:
 
-![My Most Used Languages](https://raw.githubusercontent.com/Notselwyn/GitHubStats/f7246f3385f87d7c3517dfb640dec2a354cdda3c/generated/languages.svg?token=AQLQDNXSWGGDAAT5HGA5HUDAJD2SQ)
 ![My Statistics](https://raw.githubusercontent.com/Notselwyn/GitHubStats/f7246f3385f87d7c3517dfb640dec2a354cdda3c/generated/overview.svg?token=AQLQDNXO5BNJRRMSTNX6NWLAJD22O)
+![My Most Used Languages](https://raw.githubusercontent.com/Notselwyn/GitHubStats/f7246f3385f87d7c3517dfb640dec2a354cdda3c/generated/languages.svg?token=AQLQDNXSWGGDAAT5HGA5HUDAJD2SQ)
 <!--
 Here are some ideas to get you started:
 
