@@ -14,6 +14,7 @@ Where you can find me:
 - StackOverflow: https://stackoverflow.com/users/13511076/lau?tab=profile
 
 Used languages (on GitHub):
+
 ![alt text](https://raw.githubusercontent.com/Notselwyn/GitHubStats/f7246f3385f87d7c3517dfb640dec2a354cdda3c/generated/languages.svg?token=AQLQDNXSWGGDAAT5HGA5HUDAJD2SQ)
 <!--
 Here are some ideas to get you started:
