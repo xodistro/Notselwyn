@@ -1,11 +1,14 @@
 <h1 align="center"> I'm <b>Lau</b> and I'm a.. </h1>
 <h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
 
+Current Goals:
+- Learning <b>Python</b> to it's core (decorators and magic methods)
+- Extending my knowledge on <b>C++</b>
+- Finishing <b>Ditto</b> with a cup of coffee
+- Get started with reverse engineering
+- Get even better at OSINT
+
 <!--
-**Notselwyn/Notselwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
