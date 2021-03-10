@@ -1,8 +1,10 @@
-<h1 align="center"> I'm Lau and I'm a.. </h1>
+<h1 align="center"> I'm <b>Lau</b> and I'm a.. </h1>
 <h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
 
 <!--
 **Notselwyn/Notselwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
