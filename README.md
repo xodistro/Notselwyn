@@ -1,14 +1,14 @@
 <h1 align="center"> I'm <b>Lau</b> and I'm a.. </h1>
 <h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
 
-Current Goals:
+<h1>Current Goals</h1>
 - Learning <b>Python</b> to it's core (decorators and magic methods)
 - Extending my knowledge on <b>C++</b> and <b>Java</b>
 - Finishing <b>Ditto</b> with a cup of coffee
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
 
-Accounts:
+<h1>Where you can find me</h1>
 - TryHackMe: https://tryhackme.com/p/notselwyn
 - HyperSkill: https://hyperskill.org/profile/65264613
 
