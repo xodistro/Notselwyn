@@ -8,7 +8,7 @@ Current Goals:
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
 
->Where you can find me:
+Where you can find me:
 - TryHackMe: https://tryhackme.com/p/notselwyn
 - HyperSkill: https://hyperskill.org/profile/65264613
 
