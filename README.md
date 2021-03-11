@@ -1,4 +1,4 @@
-<h1 align="center"> I'm <b>Lau</b> and I'm a.. </h1>
+<h1 align="center"> I'm Lau and I'm a.. </h1>
 <h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
 
 Current Goals:
