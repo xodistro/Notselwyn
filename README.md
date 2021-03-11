@@ -2,8 +2,8 @@
 <h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
 
 Current Goals:
-- Learning <b>Python</b> to it's core (decorators and magic methods)
-- Extending my knowledge on <b>C++</b> and <b>Java</b>
+- Expanding my <b>Python</b> skills to the core (decorators and magic methods)
+- Learning <b>C++</b> and <b>Java</b>
 - Finishing <b>Ditto</b> with a cup of coffee
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
