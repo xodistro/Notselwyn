@@ -9,6 +9,11 @@ Current Goals:
 - Get even better at <b>OSINT</b>
 - Being a Python vegan
 
+Active Projects:
+- Ditto
+- ColorModule
+- Sudoku Solver
+
 Where you can find me:
 - TryHackMe: https://tryhackme.com/p/notselwyn
 - HyperSkill: https://hyperskill.org/profile/65264613
