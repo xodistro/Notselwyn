@@ -4,7 +4,7 @@
 Current Goals:
 - Expanding my <b>Python</b> skills to the core (decorators and magic methods)
 - Learning <b>C++</b> and <b>Java</b>
-- Finishing <b>Ditto</b> with a cup of coffee
+- Finishing <b>Ditto</b> with 💜 and ☕
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
 - Being a Python vegan
