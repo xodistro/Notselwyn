@@ -12,7 +12,9 @@ Current Goals:
 Active Projects:
 - Ditto
 - ColorModule
-- Sudoku Solver
+
+Finished Projects I'm proud of:
+- [Sudoku Solver](https://github.com/NotSelwyn/SudokuSolver)
 
 Where you can find me:
 - TryHackMe: https://tryhackme.com/p/notselwyn
