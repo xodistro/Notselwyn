@@ -13,8 +13,7 @@ Active Projects:
 - Ditto
 - ColorModule
 
-Finished Projects I'm proud of:
-- Keep in mind, I don't use walkthroughs etc. 
+Finished Projects I'm proud of (Keep in mind, I don't use walkthroughs etc. ):
 - [Sudoku Solver](https://github.com/NotSelwyn/SudokuSolver)
 
 Where you can find me:
