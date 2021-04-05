@@ -2,7 +2,7 @@
 <h3 align="center"> Python Dev | Wanna-be Pentester | OSINT Guru</h3>
 
 Current Goals:
-- Expanding my <b>Python</b> skills to the core (decorators and magic methods)
+- Training my <b>Python</b> skills to the max (decorators, magic methods & GUIs)
 - Learning <b>C++</b> and <b>Java</b>
 - Finishing <b>Ditto</b> with 💜 and ☕
 - Get started with <b>reverse engineering</b>
