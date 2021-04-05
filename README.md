@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Lau and I'm a.. </h1>
-<h3 align="center"> Python Dev | Data Science Engineer | Wanna-be pentester </h3>
+<h3 align="center"> Python Dev | Wanna-be pentester | OSINT Guru</h3>
 
 Current Goals:
 - Expanding my <b>Python</b> skills to the core (decorators and magic methods)
