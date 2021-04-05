@@ -7,7 +7,6 @@ Current Goals:
 - Finishing <b>Ditto</b> with 💜 and ☕
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
-- Being a Python vegan
 
 Active Projects:
 - Ditto
