@@ -14,6 +14,7 @@ Active Projects:
 
 Finished Projects I'm proud of (Keep in mind, I don't use walkthroughs et cetera):
 - [Sudoku Solver](https://github.com/NotSelwyn/SudokuSolver)
+- [NEAT Car Racing](https://github.com/Notselwyn/NEAT-Car-Racing)
 
 Where you can find me:
 - <a href="https://tryhackme.com/p/notselwyn"> TryHackMe </a>  <-- very active
