@@ -8,7 +8,7 @@ Current Goals:
 - Get started with <b>reverse engineering</b>
 - Get even better at <b>OSINT</b>
 
-Active Projects:
+Developing Projects:
 - Ditto
 - ColorModule
 
