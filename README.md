@@ -9,8 +9,8 @@ Current Goals:
 - Get even better at <b>OSINT</b>
 
 Developing Projects:
-- Ditto
-- ColorModule
+- [Ditto](https://github.com/NotSelwyn/DittoSoftware) (Private)
+- [ColorModule](https://github.com/NotSelwyn/ColorModule) (Private)
 
 Finished Projects I'm proud of (Keep in mind, I don't use walkthroughs et cetera):
 - [Sudoku Solver](https://github.com/NotSelwyn/SudokuSolver)
