@@ -23,7 +23,7 @@ Where you can find me:
 
 Boring statistics:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Notselwyn&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notselwyn&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Notselwyn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=notselwyn@gmail.com&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notselwyn&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Notselwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notselwyn&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
