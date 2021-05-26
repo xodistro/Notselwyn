@@ -25,7 +25,7 @@ Boring statistics:
 
 ![My Statistics](https://github.com/Notselwyn/GitHubStats/blob/master/generated/overview.svg) ![My Most Used Languages](https://github.com/Notselwyn/GitHubStats/blob/master/generated/languages.svg)
 
-[![Notselwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notselwyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Notselwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notselwyn&show_icons=true&theme=cobalt))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
