@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Lau and I'm a.. </h1>
-<h3 align="center"> Python Dev | Wanna-be Pentester | OSINT Guru</h3>
+<h3 align="center"> Python Vegan | Wanna-be Pentester | OSINT Guru</h3>
 
 Current Goals:
 - Training my <b>Python</b> skills to the max
