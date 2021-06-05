@@ -6,7 +6,7 @@ Current Goals:
 - Learning <b>C++</b> and <b>Java</b>
 - Finishing <b>Ditto</b> with 💜 and ☕
 - Get even better at <b>OSINT</b>
-- Getting better at <b>Designing</b>
+- Getting better at <b>Design</b>
 
 Developing Projects:
 - [Ditto](https://github.com/NotSelwyn/DittoBot) (Private)
