@@ -3,7 +3,7 @@
 
 Current Goals:
 - Training my <b>Python</b> skills to the max
-- Learning <b>C++</b> and <b>Java</b>
+- Learning <b>C++</b>
 - Get even better at <b>OSINT</b>
 - Getting better at <b>Design</b>
 
