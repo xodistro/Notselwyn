@@ -8,6 +8,7 @@ Current Goals:
 - Getting better at <b>Design</b>
 
 Developing Projects:
+- [Portfolio Website]("https://github.com/NotSelwyn/Portfolio-Website")
 - [Ditto](https://github.com/NotSelwyn/DittoBot) (Private)
 - [ColorModule](https://github.com/NotSelwyn/ColorModule) (Private)
 
