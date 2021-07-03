@@ -27,6 +27,8 @@ Boring statistics:
 
 [![Notselwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notselwyn&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Notselwyn)
+
 <!--
 Here are some ideas to get you started:
 
