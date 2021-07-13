@@ -19,7 +19,7 @@ Projects I'm proud of (Keep in mind, I don't use walkthroughs et cetera):
 Where you can find me:
 - <a href="https://tryhackme.com/p/notselwyn"> TryHackMe </a>  <-- very active
 - <a href="https://hyperskill.org/profile/65264613"> HyperSkill </a> 
-- <a href="https://stackoverflow.com/users/13511076/lau?tab=profile"> StackOverflow </a> 
+- <a href="https://www.codingame.com/profile/295bd8e2b5e1c553cc4cbbacc9bde1f50218214"> CodinGame </a> 
 
 Boring statistics:
 
