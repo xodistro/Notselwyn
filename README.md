@@ -9,8 +9,7 @@ Current Goals:
 
 Developing Projects:
 - [Portfolio Website](https://github.com/NotSelwyn/Portfolio-Site)
-- [Ditto](https://github.com/NotSelwyn/DittoBot) (Private)
-- [ColorModule](https://github.com/NotSelwyn/ColorModule) (Private)
+- [AssaultCube Trainer](https://github.com/Notselwyn/AssaultCube-Trainer) 
 
 Projects I'm proud of (Keep in mind, I don't use walkthroughs et cetera):
 - [Sudoku Solvers](https://github.com/NotSelwyn/SudokuSolver)
