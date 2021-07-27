@@ -9,7 +9,7 @@ Current Goals:
 
 Developing Projects:
 - [Portfolio Website](https://github.com/NotSelwyn/Portfolio-Site)
-- [AssaultCube Trainer](https://github.com/Notselwyn/AssaultCube-Trainer) 
+- [AssaultCube Trainer](https://github.com/Notselwyn/AssaultCubeInternal) 
 
 Projects I'm proud of (Keep in mind, I don't use walkthroughs et cetera):
 - [Sudoku Solvers](https://github.com/NotSelwyn/SudokuSolver)
