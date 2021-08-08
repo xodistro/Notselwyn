@@ -30,3 +30,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
 
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=notselwyn&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=Notselwyn)
