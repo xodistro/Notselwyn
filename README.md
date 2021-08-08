@@ -26,6 +26,8 @@ Boring statistics:
 
 [![Notselwyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notselwyn&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophies](https://github-profile-trophy.vercel.app/?username=notselwyn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=Notselwyn)
 
 <!--
