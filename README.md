@@ -1,22 +1,32 @@
 
 ```console
 $ neofetch
-             :?1aOgQB##BQgda1*:                notselwyn@nsa.local
-         ,}O#@@@@@@@@@@@@@@@@@@#q},            -------------
-      -t#@@@@@@@@@@@@@@@@@@@@@@@@@@Qz-         Uptime: 16 years
-    =g@@@@@#@@@@@@@@@@@@@@@@@@@@##@@@@H=       Code Plugins: Python, C++, Javascript, 2 others...
-  .I@@@@@@,  -rV0Oqe2JVzsSRgz^_  .@@@@@@I      OS: Arch Linux
- -#@@@@@@@                        #@@@@@@N-    Shell: BASH
-_Q@@@@@@@0.                      `6@@@@@@@Q    Editor: VSCode
-W@@@@@@@n                          S@@@@@@@v   Hobbies: Ethical hacking, reverse engineering, talking to computers
-@@@@@@@@`                          !@@@@@@@d   Home: /home/lau
-@@@@@@@@"                          r@@@@@@@O   
-D@@@@@@@d`                         Q@@@@@@@1   contact information
-~#@@@@@@@B;                      =8@@@@@@@#`   -------------------
- ~@@@@MK8@@Bqx~_`          `_;vP#@@@@@@@@B~    Website: shitdev.nl
-  =g@@@S.`K@@@@@#!        ?#@@@@@@@@@@@@g.     Discord: Lau#1337
-    L#@@#x .^]Lv"          J@@@@@@@@@@BL       TryHackMe: NotSelwyn
-     `r0@@BaVYYl~          n@@@@@@@@0r         Github: NotSelwyn
-        -|M#@@@@w          n@@@@#M|`           CodinGame: Lauu
-            .^lz=          :zL*.               Reddit: SensitiveAnteater420
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@nsa.local
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 16 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Python, C++, Javascript, 2 others...
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Ethical hacking, reverse engineering, coding 
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/lau
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: shitdev.nl
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: NotSelwyn
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: NotSelwyn
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CodinGame: Lauu
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling modules
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         -----------------
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: github.com/NotSelwyn/Portfolio-Site
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: github.com/Notselwyn/AssaultCubeInternal
+              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: github.com/Notselwyn/NEAT-Car-Racing
+                  -!v|`              _?v!`                     
 ```
+
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=notselwyn&theme=dark)
+
