@@ -20,8 +20,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: NotSelwyn
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CodinGame: Lauu
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling modules
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         -----------------
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: github.com/NotSelwyn/Portfolio-Site
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: github.com/Notselwyn/AssaultCubeInternal
               "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: github.com/Notselwyn/NEAT-Car-Racing
