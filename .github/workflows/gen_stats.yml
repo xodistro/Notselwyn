@@ -34,8 +34,8 @@ jobs:
           c_neofetch=$(cat NEOFETCH.md)
           c_stats=$(cat STATS.md)
           c_readme="${c_neofetch}\n${c_stats}\n![](https://komarev.com/ghpvc/?username=Notselwyn)]"
-          echo $c_readme
-          echo $c_readme > README.md
+          echo -e $c_readme
+          echo -e $c_readme > README.md
           
       - name: Commit & Push changes
         run: |
