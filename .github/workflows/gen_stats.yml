@@ -28,8 +28,7 @@ jobs:
       - name: Merge the stats with prefix & postfix string
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=0")
-          echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`"
-          echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`" > STATS.md
+          echo -e "\`\`\`console\n\$ stats\n${stats}\`\`\`" > STATS.md
           
       - name: Commit & Push changes
         run: |
