@@ -24,8 +24,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
       
       - name: Merge the stats with prefix & postfix string
         run: |
