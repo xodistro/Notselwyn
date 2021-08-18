@@ -22,9 +22,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: github.com/NotSelwyn/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: github.com/Notselwyn/AssaultCubeInternal
-              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: github.com/Notselwyn/NEAT-Car-Racing
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: /NotSelwyn/Portfolio-Site
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: /Notselwyn/AssaultCubeInternal
+              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: /Notselwyn/NEAT-Car-Racing
                   -!v|`              _?v!`                     
 ```
 
