@@ -27,11 +27,15 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: CURL the stats into a variable
-        run: stats=$(curl "http://shitdev.nl/api/wakatime_text?username=notselwyn&editors=0")
+        run: |
+          stats=$(curl "http://shitdev.nl/api/wakatime_text?username=notselwyn&editors=0")
+          echo $stats
           
 
       # Runs a set of commands using the runners shell
       - name: Merge the stats with prefix & postfix string
         run: |
-          echo "```console\n$stats\n${stats}```" > STATS.md
+          output="```console\n$stats\n${stats}```"
+          echo output
+          echo output > STATS.md
           
