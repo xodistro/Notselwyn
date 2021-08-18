@@ -36,6 +36,7 @@ jobs:
           c_readme="${c_neofetch}\n${c_stats}\n![](https://komarev.com/ghpvc/?username=Notselwyn)]"
           echo -e $c_readme
           echo -e $c_readme > README.md
+          cat NEOFETCH.md STATS.md "\n![](https://komarev.com/ghpvc/?username=Notselwyn)]" > README.md
           
       - name: Commit & Push changes
         run: |
