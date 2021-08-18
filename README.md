@@ -9,7 +9,7 @@ $ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Ethical hacking, reverse engineering, coding 
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/lau
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
