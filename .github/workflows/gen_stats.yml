@@ -35,7 +35,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Merge the stats with prefix & postfix string
         run: |
-          output=
-          echo "\`\`\`console\n$stats\n${stats}\`\`\`"
-          echo "\`\`\`console\n$stats\n${stats}\`\`\`" > STATS.md
+          output="```console\n$stats\n${stats}```"
+          echo $output
+          echo $output > STATS.md
           
