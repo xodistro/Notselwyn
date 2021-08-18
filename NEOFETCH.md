@@ -4,7 +4,7 @@ $ neofetch
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@nsa.local
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 16 years
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Python, C++, Javascript, 2 others...
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Python, C++, JS, 2 others...
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
