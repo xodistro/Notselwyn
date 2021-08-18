@@ -29,7 +29,7 @@ jobs:
       
       - name: Merge the stats with prefix & postfix string
         run: |
-          stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=5&languages=5")
+          stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=6&languages=6")
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS.md
       - name: Compile the README.md file
         run: |
