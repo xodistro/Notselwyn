@@ -1,5 +1,5 @@
 ```console
-$stats
+$ stats
 
 languages
 ---------
