@@ -31,3 +31,4 @@ jobs:
           echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`"
           touch STATS.md
           echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`" > STATS.md
+          git commit
