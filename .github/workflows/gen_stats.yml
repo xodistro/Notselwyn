@@ -31,12 +31,8 @@ jobs:
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS.md
       - name: Compile the README.md file
         run: |
-          c_neofetch="$(cat NEOFETCH.md)"
-          c_stats="$(cat STATS.md)"
-          c_readme="${c_neofetch}\n${c_stats}\n![](https://komarev.com/ghpvc/?username=Notselwyn)]"
-          echo -e $c_readme
-          echo -e $c_readme > README.md
-          cat NEOFETCH.md STATS.md <("\n![](https://komarev.com/ghpvc/?username=Notselwyn)]") > README.md
+          cat NEOFETCH.md STATS.md > README.md
+          echo "\n[](https://komarev.com/ghpvc/?username=Notselwyn)]" >> README.md
           
       - name: Commit & Push changes
         run: |
