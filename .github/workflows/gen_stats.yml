@@ -36,6 +36,6 @@ jobs:
       - name: Merge the stats with prefix & postfix string
         run: |
           output=
-          echo "```console\n$stats\n${stats}```"
-          echo "```console\n$stats\n${stats}```" > STATS.md
+          echo "\`\`\`console\n$stats\n${stats}\`\`\`"
+          echo "\`\`\`console\n$stats\n${stats}\`\`\`" > STATS.md
           
