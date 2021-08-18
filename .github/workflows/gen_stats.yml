@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: CURL the stats into a variable
-        run: stats=$(curl "http://127.0.0.1/api/wakatime_text?username=notselwyn&editors=0")
+        run: stats=$(curl "http://shitdev.nl/api/wakatime_text?username=notselwyn&editors=0")
           
 
       # Runs a set of commands using the runners shell
