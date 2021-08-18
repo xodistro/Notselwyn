@@ -29,6 +29,5 @@ jobs:
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=0")
           echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`"
-          touch STATS.md
           echo -e "\`\`\`console\n\$stats\n${stats}\`\`\`" > STATS.md
           ls -la
