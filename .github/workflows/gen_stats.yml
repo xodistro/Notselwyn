@@ -26,11 +26,12 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: CURL the stats into a variable
+        run: stats=$(curl "http://127.0.0.1/api/wakatime_text?username=notselwyn&editors=0")
+          
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Merge the stats with prefix & postfix string
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          printf "```console\n$stats\n" + $stats + "```" > STATS.md
+          
