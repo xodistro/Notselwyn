@@ -1,5 +1,6 @@
 ```console
 $ stats
+
 languages
 ---------
 Python       [####------] (36.2%)  33 hrs 25 mins
