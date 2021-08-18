@@ -33,6 +33,7 @@ jobs:
           
       - name: Commit & Push changes
         run: |
+          git add STATS.md
           git config --global user.name 'Auto'
           git config --global user.email 'auto@example.com'
           git commit -am 'Automatic update' || true
