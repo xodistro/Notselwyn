@@ -31,8 +31,8 @@ jobs:
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS.md
       - name: Compile the README.md file
         run: |
-          c_neofetch=$(cat -A NEOFETCH.md)
-          c_stats=$(cat -A STATS.md)
+          c_neofetch="$(cat -A NEOFETCH.md)"
+          c_stats="$(cat -A STATS.md)"
           c_readme="${c_neofetch}\n${c_stats}\n![](https://komarev.com/ghpvc/?username=Notselwyn)]"
           echo -e $c_readme
           echo -e $c_readme > README.md
