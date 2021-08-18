@@ -22,9 +22,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           (67%) Portfolio Website: /NotSelwyn/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             (34%) Assault Cube Trainer: /NotSelwyn/AssaultCubeInternal
-              "Lf8@@@@v              q@@@#Qa?:                 (99%) Neural Net Racing: /NotSelwyn/NEAT-Car-Racing
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: /NotSelwyn/Portfolio-Site
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: /NotSelwyn/AssaultCubeInternal
+              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: /NotSelwyn/NEAT-Car-Racing
                   -!v|`              _?v!`                     
 ```
 
