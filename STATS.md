@@ -1,5 +1,5 @@
 ```console
-$ stats --since 15/07/2021
+$ stats
 
 languages                                             editors
 ---------                                             -------

@@ -27,7 +27,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
                   -!v|`              _?v!`                     
 ```
 ```console
-$ stats --since 15/07/2021
+$ stats
 
 languages                                             editors
 ---------                                             -------
