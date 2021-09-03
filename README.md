@@ -31,12 +31,12 @@ $ stats
 
 languages                                             editors
 ---------                                             -------
-Python       [###-------] (31.64%) 33 hrs 30 mins     WebStorm     [###-------] (33.15%) 35 hrs 6 mins
-JavaScript   [##--------] (19.58%) 20 hrs 44 mins     PyCharmEdu   [###-------] (30.76%) 32 hrs 34 mins
-C++          [#---------] (12.18%) 12 hrs 54 mins     VS Code      [##--------] (16.66%) 17 hrs 38 mins
-CSS          [#---------] (9.55%)  10 hrs 7 mins      GoLand       [#---------] (7.08%)  7 hrs 29 mins
-Pug          [#---------] (8.86%)  9 hrs 22 mins      VS 2019      [#---------] (6.6%)   6 hrs 59 mins
-HTML         [#---------] (7.81%)  8 hrs 16 mins      CLion        [#---------] (5.74%)  6 hrs 4 mins
+Python       [###-------] (31.07%) 33 hrs 30 mins     WebStorm     [###-------] (32.56%) 35 hrs 6 mins
+JavaScript   [##--------] (19.26%) 20 hrs 46 mins     PyCharmEdu   [###-------] (30.22%) 32 hrs 34 mins
+C++          [#---------] (12.32%) 13 hrs 17 mins     VS Code      [##--------] (17.79%) 19 hrs 10 mins
+CSS          [#---------] (9.59%)  10 hrs 20 mins     GoLand       [#---------] (6.95%)  7 hrs 29 mins
+Pug          [#---------] (9.16%)  9 hrs 52 mins      VS 2019      [#---------] (6.84%)  7 hrs 22 mins
+HTML         [#---------] (7.67%)  8 hrs 16 mins      CLion        [#---------] (5.64%)  6 hrs 4 mins
 ```
 
 ![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)
