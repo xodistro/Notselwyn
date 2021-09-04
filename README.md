@@ -32,3 +32,4 @@ $ stats
 ```
 
 ![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)
+Trigger reload
