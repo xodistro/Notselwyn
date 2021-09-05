@@ -32,4 +32,3 @@ $ stats
 ```
 
 ![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)
-h
