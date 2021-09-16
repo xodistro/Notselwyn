@@ -9,4 +9,6 @@ JavaScript   [##--------] (18.11%) 22 hrs 55 mins     VS Code      [##--------] 
 CSS          [#---------] (8.16%)  10 hrs 20 mins     VS 2019      [#---------] (13.6%)  17 hrs 13 mins
 Pug          [#---------] (8.03%)  10 hrs 9 mins      GoLand       [#---------] (5.92%)  7 hrs 29 mins
 HTML         [#---------] (6.54%)  8 hrs 16 mins      CLion        [----------] (4.8%)   6 hrs 4 mins
+---------
+total        [##########] (99.7%)  126 hrs 13 mins
 ```
