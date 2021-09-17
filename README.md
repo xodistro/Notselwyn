@@ -5,9 +5,9 @@ $ neofetch
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 16 years
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Python, C++, JS, 2 others...
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: GNU/Linux
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Alacritty
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/lau
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
