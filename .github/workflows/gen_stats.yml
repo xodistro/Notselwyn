@@ -37,7 +37,7 @@ jobs:
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS_TEXT.md
       - name: Compile the README.md file
         run: |
-          cat NEOFETCH.md STATS_CIRCLE.md > README.md
+          cat NEOFETCH.md STATS_TEXT.md > README.md
           echo -e "\n![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)" >> README.md
           
       - name: Commit & Push changes
