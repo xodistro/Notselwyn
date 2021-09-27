@@ -29,7 +29,7 @@ jobs:
       
       - name: Merge the text stats with prefix & postfix string
         run: |
-          stats=$(curl -X GET "https://shitdev.nl/api/wakatime/circle?username=notselwyn&start_angle=160&label_width=8&edge_width=2&diameter=20&double_backslashes=true")
+          stats=$(curl -X GET "https://shitdev.nl/api/wakatime/circle?username=notselwyn&start_angle=160&label_width=7&edge_width=2&diameter=20&double_backslashes=true")
           echo -e "\`\`\`console\n\$ stats \n${stats}\n\`\`\`" > STATS_CIRCLE.md
       - name: Merge the circle stats with prefix & postfix string
         run: |
