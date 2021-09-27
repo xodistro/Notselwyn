@@ -10,7 +10,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-  - cron: "0 * * * *"
+  - cron: "0 */6 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -30,14 +30,14 @@ jobs:
       - name: Merge the text stats with prefix & postfix string
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime/circle?username=notselwyn")
-          echo -e "\`\`\`console\n\$ stats \n${stats}\n\`\`\`" > STATS_CIRCLE.md
+          echo -e "\`\`\`console\n\$ stats \n${stats/\\/\\\\}\n\`\`\`" > STATS_CIRCLE.md
       - name: Merge the circle stats with prefix & postfix string
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime/text?username=notselwyn&editors=6&languages=6&total_time=true")
           echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS_TEXT.md
       - name: Compile the README.md file
         run: |
-          cat NEOFETCH.md STATS_TEXT.md > README.md
+          cat NEOFETCH.md STATS_CIRCLE.md > README.md
           echo -e "\n![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)" >> README.md
           
       - name: Commit & Push changes
