@@ -27,19 +27,23 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Merge the stats with prefix & postfix string
+      - name: Merge the text stats with prefix & postfix string
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=6&languages=6&total_time=true")
-          echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`"
-          echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS.md
+          echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS_CIRCLE.md
+      - name: Merge the circle stats with prefix & postfix string
+        run: |
+          stats=$(curl -X GET "https://shitdev.nl/api/wakatime_text?username=notselwyn&editors=6&languages=6&total_time=true")
+          echo -e "\`\`\`console\n\$ stats\n${stats}\n\`\`\`" > STATS_TEXT.md
       - name: Compile the README.md file
         run: |
-          cat NEOFETCH.md STATS.md > README.md
+          cat NEOFETCH.md STATS_TEXT.md > README.md
           echo -e "\n![profile counter](https://komarev.com/ghpvc/?username=Notselwyn)" >> README.md
           
       - name: Commit & Push changes
         run: |
-          git add STATS.md
+          git add STATS_TEXT.md
+          git add STATS_CIRCLE.md
           git config --global user.name 'Auto'
           git config --global user.email 'auto@example.com'
           git commit -am 'Automatic update' || true
