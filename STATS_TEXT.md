@@ -12,3 +12,4 @@ HTML         [#---------] (5.47%)  8 hrs 16 mins      CLion        [----------] 
 ---------
 total        [##########] (99.58%) 150 hrs 44 mins
 ```
+start reboot
