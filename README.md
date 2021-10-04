@@ -9,7 +9,7 @@ $ neofetch
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Alacritty
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/lau
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
@@ -21,9 +21,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: /NotSelwyn/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: /NotSelwyn/AssaultCubeInternal
-              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: /NotSelwyn/NEAT-Car-Racing
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/Portfolio-Site
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: ~/AssaultCubeInternal
+              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: ~/NEAT-Car-Racing
                   -!v|`              _?v!`                     
 ```
 ```console
