@@ -54,4 +54,4 @@ $ stats
                                                                                                               
 ```
 
-![profile counter](https://komarev.com/ghpvc/?username=Notselwyn&label=Profile+Views&color=6eaee7)
+![profile counter](https://komarev.com/ghpvc/?username=Notselwyn&label=Profile+Views&color=3E9FEF)
