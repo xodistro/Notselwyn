@@ -3,12 +3,12 @@ $ stats
 
 languages                                             editors
 ---------                                             -------
-Python       [####------] (40.56%) 83 hrs 37 mins     PyCharmEdu   [####------] (41.47%) 85 hrs 30 mins
-C++          [##--------] (20.54%) 42 hrs 20 mins     VS 2019      [##--------] (17.7%)  36 hrs 29 mins
-JavaScript   [##--------] (15%)    30 hrs 55 mins     WebStorm     [##--------] (17.26%) 35 hrs 35 mins
-Pug          [#---------] (5.19%)  10 hrs 42 mins     VS Code      [##--------] (16.99%) 35 hrs 2 mins
-CSS          [#---------] (5.05%)  10 hrs 24 mins     GoLand       [----------] (3.64%)  7 hrs 29 mins
-HTML         [----------] (4.01%)  8 hrs 16 mins      CLion        [----------] (2.95%)  6 hrs 4 mins
+Python       [####------] (39.87%) 83 hrs 49 mins     PyCharmEdu   [####------] (40.77%) 85 hrs 43 mins
+C++          [##--------] (20.14%) 42 hrs 20 mins     VS Code      [##--------] (18.5%)  38 hrs 53 mins
+JavaScript   [#---------] (14.71%) 30 hrs 55 mins     VS 2019      [##--------] (17.35%) 36 hrs 29 mins
+Pug          [#---------] (5.09%)  10 hrs 42 mins     WebStorm     [##--------] (16.93%) 35 hrs 35 mins
+CSS          [----------] (4.95%)  10 hrs 24 mins     GoLand       [----------] (3.57%)  7 hrs 29 mins
+HTML         [----------] (3.94%)  8 hrs 16 mins      CLion        [----------] (2.89%)  6 hrs 4 mins
 ---------
-total        [##########] (99.52%) 205 hrs 12 mins
+total        [##########] (99.53%) 209 hrs 17 mins
 ```
