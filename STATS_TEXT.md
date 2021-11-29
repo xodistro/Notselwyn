@@ -1,13 +1,14 @@
 ```console
 $ stats
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>TypeError: Cannot read properties of undefined (reading &#39;includes&#39;)<br> &nbsp; &nbsp;at /home/pi/Server/portfolio-site/src/index.ts:71:33<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (/home/pi/Server/portfolio-site/node_modules/express/lib/router/layer.js:95:5)<br> &nbsp; &nbsp;at trim_prefix (/home/pi/Server/portfolio-site/node_modules/express/lib/router/index.js:317:13)<br> &nbsp; &nbsp;at /home/pi/Server/portfolio-site/node_modules/express/lib/router/index.js:284:7<br> &nbsp; &nbsp;at Function.process_params (/home/pi/Server/portfolio-site/node_modules/express/lib/router/index.js:335:12)<br> &nbsp; &nbsp;at next (/home/pi/Server/portfolio-site/node_modules/express/lib/router/index.js:275:10)<br> &nbsp; &nbsp;at SendStream.error (/home/pi/Server/portfolio-site/node_modules/serve-static/index.js:121:7)<br> &nbsp; &nbsp;at SendStream.emit (node:events:390:28)<br> &nbsp; &nbsp;at SendStream.emit (node:domain:475:12)<br> &nbsp; &nbsp;at SendStream.error (/home/pi/Server/portfolio-site/node_modules/send/index.js:270:17)</pre>
-</body>
-</html>
+
+languages                                             editors
+---------                                             -------
+Python       [####------] (39.87%) 83 hrs 49 mins     PyCharmEdu   [####------] (40.77%) 85 hrs 43 mins
+C++          [##--------] (20.14%) 42 hrs 20 mins     VS Code      [##--------] (18.5%)  38 hrs 53 mins
+JavaScript   [#---------] (14.71%) 30 hrs 55 mins     VS 2019      [##--------] (17.35%) 36 hrs 29 mins
+Pug          [#---------] (5.09%)  10 hrs 42 mins     WebStorm     [##--------] (16.93%) 35 hrs 35 mins
+CSS          [----------] (4.95%)  10 hrs 24 mins     GoLand       [----------] (3.57%)  7 hrs 29 mins
+HTML         [----------] (3.94%)  8 hrs 16 mins      CLion        [----------] (2.89%)  6 hrs 4 mins
+---------
+total        [##########] (99.53%) 209 hrs 17 mins
 ```
