@@ -1,5 +1,5 @@
 ```console
-${shell_prefix//} stats 
+notselwyn@nsa.local:~$ stats 
                                                                                                               
 // Total hours: 228                         ########################                                          
                                        #################################                                      

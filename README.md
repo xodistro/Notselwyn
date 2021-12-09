@@ -27,7 +27,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
                   -!v|`              _?v!`                     
 ```
 ```console
-${shell_prefix//} stats 
+notselwyn@nsa.local:~$ stats 
                                                                                                               
 // Total hours: 228                         ########################                                          
                                        #################################                                      
