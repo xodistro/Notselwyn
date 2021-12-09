@@ -3,10 +3,10 @@ $ neofetch
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@nsa.local
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 16 years
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: Python, C++, JS, 2 others...
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: GNU/Linux
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Alacritty
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 16 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Python, C++, JS, 2 others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Bash
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
