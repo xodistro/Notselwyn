@@ -29,8 +29,9 @@ jobs:
       
       - name: Merge the text stats with prefix & postfix string
         run: |
+          shell_prefix="notselwyn@nsa.local:~\$"
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime/circle?username=notselwyn&start_angle=160&label_width=7&edge_width=2&diameter=20&min_labels_y=5&double_backslashes=true&total_time=true")
-          echo -e "\`\`\`console\n\$ stats \n${stats/\n\n/}\n\`\`\`" > STATS_CIRCLE.md
+          echo -e "\`\`\`console\n\$shell_prefix stats \n${stats/\n\n/}\n\`\`\`" > STATS_CIRCLE.md
       - name: Merge the circle stats with prefix & postfix string
         run: |
           stats=$(curl -X GET "https://shitdev.nl/api/wakatime/text?username=notselwyn&editors=6&languages=6&total_time=true")
