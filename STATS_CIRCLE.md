@@ -1,5 +1,5 @@
 ```console
-$ stats 
+$shell_prefix stats 
                                                                                                               
 // Total hours: 228                         ########################                                          
                                        #################################                                      
