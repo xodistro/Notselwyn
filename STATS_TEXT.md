@@ -1,5 +1,5 @@
 ```console
-$ stats
+notselwyn@nsa.local:~$
 
 languages                                             editors
 ---------                                             -------
