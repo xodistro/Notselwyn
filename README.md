@@ -27,7 +27,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
                   -!v|`              _?v!`                     
 ```
 ```console
-${shell_prefix} stats 
+${shell_prefix//} stats 
                                                                                                               
 // Total hours: 228                         ########################                                          
                                        #################################                                      
