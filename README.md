@@ -15,7 +15,7 @@ a@@@@@@@@@@2                                    v@@@@@@@@@@;
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: shitdev.nl
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#9098
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: NotSelwyn
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: NotSelwyn
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CodinGame: Lauu
