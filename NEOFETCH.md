@@ -9,7 +9,7 @@ notselwyn@nsa.local:~$ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Python, C++, JS, 2 others...
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Bash
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, Reversing, (Eth.) Hacking
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, (Eth.) Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
