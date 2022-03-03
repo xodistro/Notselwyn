@@ -10,7 +10,7 @@ notselwyn@nsa.local:~$ neofetch
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, (Eth.) Hacking
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Notselwyn
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/notselwyn
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
