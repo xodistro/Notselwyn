@@ -23,7 +23,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Neural Net Racing: ~/NEAT-Car-Racing
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
