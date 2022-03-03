@@ -9,7 +9,7 @@ notselwyn@nsa.local:~$ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Python, C++, JS, 2 others...
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, VS2019, JetBrains
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, (Eth.) Hacking
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/notselwyn
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
@@ -23,7 +23,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#1337
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Assault Cube Trainer: ~/AssaultCubeInternal
-              "Lf8@@@@v              q@@@#Qa?:                 Neural Net Racing: ~/NEAT-Car-Racing
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
