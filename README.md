@@ -14,7 +14,7 @@ _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/notse
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: shitdev.nl
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: lauwit.nl
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#9098
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: NotSelwyn
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: NotSelwyn
