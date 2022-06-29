@@ -3,12 +3,12 @@ notselwyn@nsa.local:~$
 
 languages                                             editors
 ---------                                             -------
-Python       [#####-----] (46%)    181 hrs 10 mins    PyCharmEdu   [#####-----] (46.82%) 184 hrs 23 mins
-C++          [##--------] (18.13%) 71 hrs 25 mins     VS Code      [##--------] (19.51%) 76 hrs 51 mins
-JavaScript   [#---------] (8.26%)  32 hrs 32 mins     VS 2019      [##--------] (17.72%) 69 hrs 47 mins
-Svelte       [#---------] (5.7%)   22 hrs 27 mins     WebStorm     [#---------] (9.04%)  35 hrs 35 mins
-Text         [----------] (3.14%)  12 hrs 21 mins     GoLand       [----------] (2.99%)  11 hrs 46 mins
-Go           [----------] (2.92%)  11 hrs 31 mins     Vim          [----------] (2.36%)  9 hrs 16 mins
+Python       [#####-----] (45.45%) 181 hrs 10 mins    PyCharmEdu   [#####-----] (46.26%) 184 hrs 23 mins
+C++          [##--------] (17.92%) 71 hrs 25 mins     VS Code      [##--------] (20.47%) 81 hrs 36 mins
+JavaScript   [#---------] (8.17%)  32 hrs 33 mins     VS 2019      [##--------] (17.51%) 69 hrs 47 mins
+Svelte       [#---------] (5.63%)  22 hrs 27 mins     WebStorm     [#---------] (8.93%)  35 hrs 35 mins
+Text         [----------] (3.1%)   12 hrs 21 mins     GoLand       [----------] (2.95%)  11 hrs 46 mins
+Go           [----------] (2.89%)  11 hrs 31 mins     Vim          [----------] (2.33%)  9 hrs 16 mins
 ---------
-total        [##########] (99.14%) 390 hrs 27 mins
+total        [##########] (99.15%) 395 hrs 12 mins
 ```
