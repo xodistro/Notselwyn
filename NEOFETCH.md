@@ -14,16 +14,16 @@ _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/notse
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: lauwit.nl
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: Lau#9098
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: NotSelwyn
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: NotSelwyn
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CodinGame: Lauu
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/Portfolio-Site
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Neural Net Racing: ~/NEAT-Car-Racing
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: shitdev.nl
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   TryHackMe: NotSelwyn
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: NotSelwyn
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    CodinGame: Lauu
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      compiling projects
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       ------------------
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         Portfolio Website: ~/Portfolio-Site
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Neural Net Racing: ~/NEAT-Car-Racing
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
